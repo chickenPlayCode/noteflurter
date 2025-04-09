@@ -1,4 +1,10 @@
 {
   "notes": [
+    {
+  "title": "Ghi chú A",
+  "content": "Nội dung A",
+  "priority": 1,
+  "color": "FFFFFF"
+}
   ]
 }
